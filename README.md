@@ -3,5 +3,5 @@
 
 大会HP: [早慶2Days in 茅野](https://kolc.wasedaoc.com/competition/)
 
-Copyright 2018 hpano
+Copyright 2018 hpano (hase)
 
